@@ -1,0 +1,7 @@
+1082:Anatoliy:Ivanovich:Kapec:Salary
+1083:Vasiliy:Antonovich:Shmatko:HR
+1084:Tom:Ivanovich:Ford:Developer
+1085:Emporio:Aleksandrovich:Armani:Fashion
+1086:Roberto:Danilovich:Cavalli:Designer
+1087:Enzo:Pavlovich:Ferrari:Constructor
+1088:Carl:Igorevich:Benz:Engineer
